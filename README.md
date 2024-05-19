@@ -6,6 +6,8 @@
   <img src="https://avatars.githubusercontent.com/u/59933973?s=280&v=4" height="75">
 </p>
 
+Note: This repository is associated with a challenge on the Digital Innovation One platform.
+
 ### Challenge Steps
 
 1. Create a bucket in Cloud Storage.
